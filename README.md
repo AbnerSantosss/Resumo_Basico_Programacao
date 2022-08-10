@@ -83,7 +83,7 @@ e operadores ternarios!
 
 ####  📌While/loop
 
-> São duas estruturas de repetição, nela avaliamos uma condição, e enquanto essa condição for verdadeira ele vai repetir o loop.
+> É uma estrutura de repetição, nela avaliamos uma condição, e enquanto essa condição for verdadeira ele vai repetir o loop.
 Na aula aprendemos também sobre as estruturas for, foreach e o do/while
 podemos parar uma estrutura de repetição usando o comando "break"
 
@@ -128,7 +128,7 @@ podemos parar uma estrutura de repetição usando o comando "break"
 
 > Strings é basicamente uma sequencia de caracteres, por exmplo
 um nome ex:  "Abner" e cada letra corresponde a uma posição
-podemos armazenar strings em variáveis e chamalas posieriomente
+podemos armazenar strings em variáveis e chama-lá posteriormente
 
 
 
